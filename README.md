@@ -1,3 +1,7 @@
+# Info
+This was my submission for some sort of comp sci assignment or project iirc in high school... had to quickly cook something up i think so i tried tailwind for the first time.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
